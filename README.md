@@ -50,7 +50,7 @@
 
 
 - [Google Fonts](https://fonts.google.com/) - This is a good place to choose different fonts for your website.
-- [Example resource 2](https://www.w3schools.com/) - This website is very useful for quick reference for html, css, javascript and other programming languages
+- [W3school](https://www.w3schools.com/) - This website is very useful for quick reference for html, css, javascript and other programming languages
 
 
 ### Built with
