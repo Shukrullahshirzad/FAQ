@@ -32,7 +32,6 @@
 - [Built with](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -60,8 +59,6 @@
 - CSS custom properties
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
-
-## Acknowledgements
 
 ## Author
 
